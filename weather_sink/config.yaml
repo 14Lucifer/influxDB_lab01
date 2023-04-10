@@ -1,0 +1,17 @@
+influxDB:
+  url: "http://172.31.46.143:8086"
+  token: "pmlDlyM1J-mm2eEp4wi1kw1qi4ign82pk5zbRH9W6EAEF1u110ApKwnEYtpGFSh-pldSzYSvEJgCgl_svPVkvg=="
+  org: "aqualeo"
+  bucket: "weather_test"
+  measurement: "weather"
+weather_api:
+  api_key: "15423d7bbab74495b7d183952231004"
+  city: # currenly can support only 7 cities
+    - "abu dhabi"
+    - "dubai"
+    - "sharjah"
+    - "ajman"
+    - "umm al quwain"
+    - "ras al khaimah"
+    - "fujairah"
+data_sink_interval: 10

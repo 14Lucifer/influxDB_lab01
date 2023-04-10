@@ -1,0 +1,136 @@
+2023-04-10 20:00:51,916 : INFO : InfluxDB client is successfully connected.
+2023-04-10 20:00:54,463 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:00:54,470 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:05,361 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:05,368 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:16,214 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:16,221 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:27,044 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:27,051 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:37,898 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:37,904 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:48,731 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:48,737 : INFO : InfluxDB data insert successful
+2023-04-10 20:01:59,565 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:01:59,572 : INFO : InfluxDB data insert successful
+2023-04-10 20:02:10,552 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:02:10,559 : INFO : InfluxDB data insert successful
+2023-04-10 20:02:21,441 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:02:21,448 : INFO : InfluxDB data insert successful
+2023-04-10 20:02:32,367 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:02:32,374 : INFO : InfluxDB data insert successful
+2023-04-10 20:02:43,262 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:02:43,269 : INFO : InfluxDB data insert successful
+2023-04-10 20:02:54,214 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:02:54,221 : INFO : InfluxDB data insert successful
+2023-04-10 20:03:05,318 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:03:05,325 : INFO : InfluxDB data insert successful
+2023-04-10 20:03:16,240 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:03:16,247 : INFO : InfluxDB data insert successful
+2023-04-10 20:03:27,503 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:03:27,509 : INFO : InfluxDB data insert successful
+2023-04-10 20:03:38,348 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:03:38,381 : INFO : InfluxDB data insert successful
+2023-04-10 20:03:49,221 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:03:49,227 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:01,557 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:01,564 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:12,407 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:12,414 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:23,288 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:23,294 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:34,155 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:34,161 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:45,026 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:45,033 : INFO : InfluxDB data insert successful
+2023-04-10 20:04:55,878 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:04:55,884 : INFO : InfluxDB data insert successful
+2023-04-10 20:05:06,755 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:05:06,761 : INFO : InfluxDB data insert successful
+2023-04-10 20:05:17,601 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:05:17,607 : INFO : InfluxDB data insert successful
+2023-04-10 20:05:28,466 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:05:28,472 : INFO : InfluxDB data insert successful
+2023-04-10 20:05:39,365 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:05:39,371 : INFO : InfluxDB data insert successful
+2023-04-10 20:05:50,444 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:05:50,451 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:01,326 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:01,333 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:12,346 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:12,353 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:23,192 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:23,199 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:34,076 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:34,083 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:44,953 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:44,959 : INFO : InfluxDB data insert successful
+2023-04-10 20:06:55,814 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:06:55,821 : INFO : InfluxDB data insert successful
+2023-04-10 20:07:08,011 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:07:08,018 : INFO : InfluxDB data insert successful
+2023-04-10 20:07:18,895 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:07:18,902 : INFO : InfluxDB data insert successful
+2023-04-10 20:07:29,720 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:07:29,726 : INFO : InfluxDB data insert successful
+2023-04-10 20:07:40,635 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:07:40,642 : INFO : InfluxDB data insert successful
+2023-04-10 20:07:51,510 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:07:51,516 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:02,399 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:02,406 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:13,279 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:13,286 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:24,148 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:24,181 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:35,055 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:35,062 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:45,968 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:45,974 : INFO : InfluxDB data insert successful
+2023-04-10 20:08:56,847 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-10 20:08:56,854 : INFO : InfluxDB data insert successful
