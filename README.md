@@ -1,7 +1,9 @@
 # influxDB_lab01
 The repo contains the python scripts/simple app to test influxDB.
 
-The weather_sink is a containerized application which will call weather API at every configured interval and sink the data into influxDB. The weather API is from https://www.weatherapi.com/my/ and "Weather API" provide free API package which will allow you to call 1 million API per month.
+The weather_sink is a containerized application which will call weather API at every configured interval and sink the data into influxDB. Sinked data will be visualized and monitored from InfluxDB UI.
+
+The weather API is from https://www.weatherapi.com/my/ and "Weather API" provide free API package which will allow you to call 1 million API per month.
 
 With current config, weather application will gather the real time weather information of emirates of UAE.
 
