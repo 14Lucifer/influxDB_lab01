@@ -14,4 +14,7 @@ weather_api:
     - "umm al quwain"
     - "ras al khaimah"
     - "fujairah"
+exchange_api:
+  api_key: "4bb3eb9e7fd14109b6f7501d4c3c3585"
+  base_currency: "USD"
 data_sink_interval: 10

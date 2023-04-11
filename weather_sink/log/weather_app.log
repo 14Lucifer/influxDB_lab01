@@ -1,0 +1,7 @@
+2023-04-11 19:21:03,587 : INFO : InfluxDB client is successfully connected.
+2023-04-11 19:21:04,487 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-11 19:21:04,495 : INFO : InfluxDB data insert successful
+2023-04-11 19:21:15,272 : INFO : Getting weather data for cities successful.
+cities : abu dhabi ,dubai ,sharjah ,ajman ,umm al quwain ,ras al khaimah ,fujairah
+2023-04-11 19:21:15,279 : INFO : InfluxDB data insert successful
