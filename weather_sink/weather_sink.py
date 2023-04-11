@@ -6,10 +6,25 @@ import logging
 import yaml
 import requests
 import sys
+import os
 
+
+
+# Create the log directory if it doesn't exist
+log_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'log')
+os.makedirs(log_dir, exist_ok=True)
+
+# Configure the logger to log messages to a file in the log directory
 
 # Configure the logging module
-logging.basicConfig(filename='write.log', level=logging.INFO,format='%(asctime)s : %(levelname)s : %(message)s')
+# logging.basicConfig(filename='write.log', level=logging.INFO,format='%(asctime)s : %(levelname)s : %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s : %(levelname)s : %(message)s',
+    handlers=[
+        logging.FileHandler(os.path.join(log_dir, 'weather_app.log')),
+    ]
+)
 
 # Create a StreamHandler to log messages to the console
 console_handler = logging.StreamHandler()
@@ -38,7 +53,7 @@ api_key = config["weather_api"]["api_key"]
 city = config["weather_api"]["city"]
 
 # data sync interval
-sync_interval = city = config["data_sink_interval"]
+sync_interval = config["data_sink_interval"]
 
 
 # Create an InfluxDB client instance
@@ -132,7 +147,7 @@ while True:
         logging.info("InfluxDB data insert successful")
 
         # call the API every 5 sec
-        time.sleep(10)
+        time.sleep(sync_interval)
         
     except Exception as e:
         logging.error(e)
